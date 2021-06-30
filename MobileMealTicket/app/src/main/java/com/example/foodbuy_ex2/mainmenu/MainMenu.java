@@ -104,7 +104,7 @@ public class MainMenu extends AppCompatActivity {
 
 
 
-        /*작은 qr코드생성------------------------------------------------
+        //작은 qr코드생성------------------------------------------------
         MultiFormatWriter multiFormatWriter = new MultiFormatWriter();
         try {
             BitMatrix bitMatrix = multiFormatWriter.encode(user_id, BarcodeFormat.QR_CODE, 200, 200);
@@ -121,7 +121,7 @@ public class MainMenu extends AppCompatActivity {
                 startActivity(intent1);
             }
         });
-        작은 qr코드생성------------------------------------------------*/
+       //작은 qr코드생성------------------------------------------------
 
         //식단표 생성
         new Thread(){
