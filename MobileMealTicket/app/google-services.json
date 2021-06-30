@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018525451891",
+    "project_id": "foodbuyex",
+    "storage_bucket": "foodbuyex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018525451891:android:f8c29d529e2db35d900c06",
+        "android_client_info": {
+          "package_name": "com.example.foodbuy_ex2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018525451891-qe98rvh34a8dtqr9a769c56sl022f9hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodbuy_ex2",
+            "certificate_hash": "68a9e8b8f52be369ee57cb6d44731ae21e3d0748"
+          }
+        },
+        {
+          "client_id": "1018525451891-6qrmgu700hd9tsam4p0cnruqpt39jan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwlHnCss8z6bVBysWYmh8wEpZXQjeqoPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018525451891-6qrmgu700hd9tsam4p0cnruqpt39jan3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
